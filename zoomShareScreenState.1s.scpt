@@ -28,7 +28,7 @@ if application "zoom.us" is running then
 				end if
 			else
 				set returnValue to ""
-			end if	
+			end if
 		end tell
 	end tell
 else
